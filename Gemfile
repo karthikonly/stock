@@ -13,7 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'mongoid', '5.0.2'
 gem 'thor', '0.19.1'
-gem 'rake', '10.4.2'
+gem 'rake'
 
 gem 'devise'
 gem 'bson_ext'
@@ -21,6 +21,8 @@ gem 'bson_ext'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'autoprefixer-rails'
 gem 'bcrypt', '~> 3.1.7'
+
+gem 'rubyzip'
 
 gem 'puma'
 # gem 'figaro'
